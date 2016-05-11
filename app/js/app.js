@@ -1,3 +1,4 @@
 'use strict';
 
-var eventsApp = angular.module('eventsApp', []);
+// Following is a module dependency specified like main module 'eventsApp' has dependency on ngSanitize module
+var eventsApp = angular.module('eventsApp', ['ngSanitize']);
