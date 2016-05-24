@@ -78,3 +78,10 @@ select, textarea {
 .blue{
     color:blue;
 }
+.green{
+    color:green;
+}
+.striped {
+    color:white;
+    background-color:green;
+}
