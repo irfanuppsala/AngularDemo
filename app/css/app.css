@@ -85,3 +85,6 @@ select, textarea {
     color:white;
     background-color:green;
 }
+input.ng-invalid.ng-dirty {
+    background-color: pink;
+}
